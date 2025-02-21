@@ -3,6 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 class LinearRegressor:
+    #Prueba de cambio
     """
     Linear Regression model that can perform both simple and multiple linear regression.
 
